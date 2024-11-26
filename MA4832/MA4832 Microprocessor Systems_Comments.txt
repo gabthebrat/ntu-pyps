@@ -1,0 +1,2 @@
+AY24/25: Prof Xie Ming, Prof John Heng
+Generally manageable with strong focus on navigating the TM4C123G datasheet, and applying it in the lab. First half by Prof XM is much less intense with relatively straightforward MCQ CAs. Second half by Prof John Heng is infinitely more in-depth, with step-by-step teachings on reading the datasheet. Lab CA is slightly challenging with the limited time given for completing 3 programming tasks.
