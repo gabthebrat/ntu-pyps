@@ -1,0 +1,7 @@
+AY24/25 S1
+- Course Difficulty: 3/5 
+- Lecturers [Prof Tan Pei Yan, Prof Chow Wai Tuck, Prof Sellakutti Rajendran]: 4/5 to all
+
+Energy methods portion was least intuitive, but just need to follow standard procedure. Don't require any real understanding (briefly covered)
+Cracks is quite simple, just find the links between formulas and when to use which
+Vibrations quite straightforward, many different cases but same overall methodology

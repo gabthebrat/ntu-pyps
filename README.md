@@ -11,3 +11,11 @@ Still working out a viable file system and naming convention. Possible categorie
 
 Possible features:
 - Any form of student answers may be uploaded (e.g. .pdf, .docx), but a rating system may be implemented to filter out the best, most correct answers, with comments to indicate which questions may have errors.
+
+Naming Conventions
+- PYPs: MAxxxx 20xx-20xx S1 (Q+A_student)
+
+Comments
+- Course Difficulty: /5
+- Lecturers [name]: /5
+- Course Materials: /5

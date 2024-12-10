@@ -1,4 +1,6 @@
 AY24/25: Prof Xie Ming, Prof John Heng
+- Course Difficulty: 3/5
+- Lecturers [Prof Xie Ming, Prof John Heng]: 2/5, 4.5/5
 Generally manageable with strong focus on navigating the TM4C123G datasheet, and applying it in the lab. First half by Prof XM is much less intense with relatively straightforward MCQ CAs. Second half by Prof John Heng is infinitely more in-depth, with step-by-step teachings on reading the datasheet. Lab CA is slightly challenging with the limited time given for completing 3 programming tasks.
 
 Prepare for John Heng CA with code snippets (LEDs, configure different ADC, Dipswitch, Button etc.)
